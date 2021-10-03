@@ -13,6 +13,13 @@ public class TestCase1 {
 	private void age() {
 		System.out.println("23");
 	}	
+	
+	
+	
+	
+private void company() {
+System.out.println("CTS");
+}
 
 	public static void main(String[] args) {
 		TestCase1 t = new TestCase1();
